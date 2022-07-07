@@ -1,2 +1,3 @@
-# pos
-The Bhojpur POS is a software-as-a-service product used as a Point of Sale system based on Bhojpur.NET Platform for application delivery.
+# Bhojpur POS - Point of Sale
+
+The `Bhojpur POS` is an artificial intelligence enabled Point of Sale system applied within the [Bhojpur.NET Platform](https://github.com/bhojpur/platform/) ecosystem for delivery of distributed `applications` or `services`.
